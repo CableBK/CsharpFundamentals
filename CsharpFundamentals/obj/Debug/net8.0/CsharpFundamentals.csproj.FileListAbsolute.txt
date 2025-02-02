@@ -1,0 +1,15 @@
+/home/dev/CsharpFundamentals/CsharpFundamentals/bin/Debug/net8.0/CsharpFundamentals
+/home/dev/CsharpFundamentals/CsharpFundamentals/bin/Debug/net8.0/CsharpFundamentals.deps.json
+/home/dev/CsharpFundamentals/CsharpFundamentals/bin/Debug/net8.0/CsharpFundamentals.runtimeconfig.json
+/home/dev/CsharpFundamentals/CsharpFundamentals/bin/Debug/net8.0/CsharpFundamentals.dll
+/home/dev/CsharpFundamentals/CsharpFundamentals/bin/Debug/net8.0/CsharpFundamentals.pdb
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.AssemblyInfoInputs.cache
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.AssemblyInfo.cs
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.csproj.CoreCompileInputs.cache
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.sourcelink.json
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.dll
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/refint/CsharpFundamentals.dll
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.pdb
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/CsharpFundamentals.genruntimeconfig.cache
+/home/dev/CsharpFundamentals/CsharpFundamentals/obj/Debug/net8.0/ref/CsharpFundamentals.dll
