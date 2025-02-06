@@ -1,5 +1,3 @@
 //Snippets 
-/*
-Console.WriteLine("Hello World!");
-Console.WriteLine("From Cable");
-*/
+//Console.WriteLine("Hello World!");
+//Console.WriteLine("From Cable");
